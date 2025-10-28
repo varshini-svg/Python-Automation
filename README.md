@@ -32,13 +32,7 @@ Each project folder contains:
 -  requirements.txt` for dependencies
 -  Sample input/output files (where applicable)
 
-To run any project:
-```bash
 git clone https://github.com/varshini-svg/Python-Automation.git
-cd project-folder
-pip install -r requirements.txt
-python script.py
-```
 
 ##  Highlights
 
