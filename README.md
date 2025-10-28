@@ -53,5 +53,3 @@ python script.py
 This repository is licensed under the [MIT License](LICENSE).
 
 ---
-
-Let me know if you'd like me to tailor this for a specific repo structure or add badges, contribution guidelines, or deployment notes!
