@@ -34,7 +34,7 @@ Each project folder contains:
 
 To run any project:
 ```bash
-git clone https://github.com/varshini-svg/Python-Automation/.git
+git clone https://github.com/varshini-svg/Python-Automation.git
 cd project-folder
 pip install -r requirements.txt
 python script.py
